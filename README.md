@@ -20,7 +20,7 @@ This web application was built to learn .NET Core API, Microsoft SQL Server, and
 
 ## Functions
 
-The web app is capable of displaying a table of books held in the database, adding new books, editing existing books, and deleting books from the database. All changes, if saved, will affect the database. When adding or editing a movie, the forms appear in a modal from the [Bootstrap](https://getbootstrap.com/docs/5.3/components/modal/) frontend toolkit.
+The web app is capable of displaying a table of books held in the database, adding new books, editing existing books, and deleting books from the database. All changes, if saved, will affect the database. When adding or editing a book, the forms appear in a modal from the [Bootstrap](https://getbootstrap.com/docs/5.3/components/modal/) frontend toolkit.
 
 
 
